@@ -1,0 +1,19 @@
+{
+  "name": "janovrom.selectiontools",
+  "version": "0.1.0",
+  "displayName": "Selection tools",
+  "description": "Provides some commonly used tools for selection:\n\nEdit -> Create",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "selection tools",
+    "group",
+    "ungroup",
+    "move component"
+  ],
+  "author": {
+    "name": "Roman Janovsky",
+    "email": "roman.janovsky9@seznam.cz",
+    "url": ""
+  }
+}
