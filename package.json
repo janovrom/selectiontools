@@ -2,7 +2,7 @@
   "name": "janovrom.selectiontools",
   "version": "0.1.0",
   "displayName": "Selection tools",
-  "description": "Provides some commonly used tools for selection:\n\nEdit -> Create",
+  "description": "Provides some commonly used tools for selection:\n\nGameObject -> Group selected (Ctrl+Shift+G)\nGameObject -> Dissolve group (Ctrl+Delete)\n\nBoth can be used from context menu in hierarchy.",
   "unity": "2019.1",
   "unityRelease": "0b5",
   "keywords": [

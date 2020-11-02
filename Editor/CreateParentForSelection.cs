@@ -9,7 +9,7 @@ namespace Janovrom.SelectionTools
     public static class CreateParentForSelection
     {
         
-        [MenuItem("GameObject/Group selection #%g", false, 0)]
+        [MenuItem("GameObject/Group selected #%g", false, 0)]
         public static void GroupSelection()
         {
             if (Selection.transforms.Length == 0)
